@@ -21,6 +21,7 @@
     "ws": "^7.0.0"
   },
   "devDependencies": {
+    "cypress": "^9.5.1",
     "jest": "^24.8.0",
     "supertest": "^4.0.2"
   },
